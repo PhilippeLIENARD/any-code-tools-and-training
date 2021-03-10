@@ -379,7 +379,7 @@
                     {
                         "type": "TEMPLATE",
                         "key": "trackingId",
-                        "value": "UA-171621162-1"
+                        "value": ""
                     }
                 ],
                 "fingerprint": ""
