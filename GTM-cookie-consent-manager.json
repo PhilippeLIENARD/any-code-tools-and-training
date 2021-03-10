@@ -4,15 +4,15 @@
     "containerVersion": {
         "path": "",
         "accountId": "accountId",
-        "containerId": "31839622",
+        "containerId": "yourcontainerId",
         "containerVersionId": "10",
         "name": "Click tracking if consent",
         "container": {
-            "path": "accounts/accountId/containers/31839622",
+            "path": "accounts/accountId/containers/yourcontainerId",
             "accountId": "accountId",
             "containerId": "yourcontainerId",
             "name": "dekoninck.be",
-            "publicId": "GTM-TMFZGKX",
+            "publicId": "GTM-xxx",
             "usageContext": [
                 "WEB"
             ],
@@ -86,7 +86,7 @@
                     {
                         "type": "TEMPLATE",
                         "key": "trackingId",
-                        "value": "UA-171621162-1"
+                        "value": "UA-ID"
                     }
                 ],
                 "fingerprint": "",
@@ -102,7 +102,7 @@
                 "accountId": "accountId",
                 "containerId": "yourcontainerId",
                 "tagId": "49",
-                "name": "Google Analytics Universal Analytics => OLD GA - UA-16160460-14",
+                "name": "Google Analytics Universal Analytics => OLD GA - UA-ID",
                 "type": "ua",
                 "parameter": [
                     {
@@ -159,7 +159,7 @@
                     {
                         "type": "TEMPLATE",
                         "key": "trackingId",
-                        "value": "UA-16160460-14"
+                        "value": "UA-ID"
                     }
                 ],
                 "fingerprint": "",
@@ -211,7 +211,7 @@
                     {
                         "type": "TEMPLATE",
                         "key": "trackingId",
-                        "value": "UA-171621162-1"
+                        "value": "UA-ID"
                     }
                 ],
                 "fingerprint": "",
@@ -263,10 +263,10 @@
                     {
                         "type": "TEMPLATE",
                         "key": "trackingId",
-                        "value": "UA-16160460-14"
+                        "value": "UA-ID"
                     }
                 ],
-                "fingerprint": "1597066523196",
+                "fingerprint": "xxx",
                 "firingTriggerId": [
                     "50"
                 ],
@@ -300,7 +300,7 @@
                         ]
                     }
                 ],
-                "fingerprint": "1594050722063"
+                "fingerprint": "fingerprint"
             },
             {
                 "accountId": "accountId",
@@ -325,7 +325,7 @@
                         ]
                     }
                 ],
-                "fingerprint": "1597128458143"
+                "fingerprint": "fingerprint"
             }
         ],
         "variable": [
@@ -423,7 +423,7 @@
                         "value": "analyticalCookiesAllowed"
                     }
                 ],
-                "fingerprint": "1594045154632",
+                "fingerprint": "fingerprint",
                 "formatValue": {}
             },
             {
@@ -465,7 +465,7 @@
                         "value": "marketingCookiesAllowed"
                     }
                 ],
-                "fingerprint": "1594045166059",
+                "fingerprint": "fingerprint",
                 "formatValue": {}
             },
             {
