@@ -266,7 +266,7 @@
                         "value": "UA-ID"
                     }
                 ],
-                "fingerprint": "xxx",
+                "fingerprint": "",
                 "firingTriggerId": [
                     "50"
                 ],
@@ -382,7 +382,7 @@
                         "value": "UA-171621162-1"
                     }
                 ],
-                "fingerprint": "1594028429464"
+                "fingerprint": ""
             },
             {
                 "accountId": "accountId",
@@ -402,7 +402,7 @@
                         "value": "_ga"
                     }
                 ],
-                "fingerprint": "1594039659100",
+                "fingerprint": "",
                 "formatValue": {}
             },
             {
@@ -444,7 +444,7 @@
                         "value": "essentialCookiesAllowed"
                     }
                 ],
-                "fingerprint": "1594045174671",
+                "fingerprint": "",
                 "formatValue": {}
             },
             {
